@@ -1,6 +1,37 @@
-//14-Write a js Program to
+////9. Write a js program to count total number of vowels and consonants in a string.
+
+// var find="yoyfpupfupv"
+// var vowel=""
+// var cons= ""
+// for(i=0;i<find.length;i++){
+//     var check=find[i]
+//      if(check=="a"||check=="e"||check=="i"||check=="o"||check=="u"){
+//         vowel += check
+//     }else{
+//         cons += check
+//     }
+// }
+//  console.log( `Vowel ${vowel}, Consonant ${cons}`)
 
 
+
+
+
+
+
+
+
+// //7. Write a js program to toggle case of each character of a string.
+// var tog="HeLgoyouyoyDSSlO"
+//  var result=""
+//  for(i=0;i<tog.length;i++){
+//     var char= tog[i]
+// if(char==char.toUpperCase()){
+ 
+// result += char.toLowerCase()
+//  } 
+//  else {result+= char.toUpperCase()}}
+// console.log(result)
 
 
 
