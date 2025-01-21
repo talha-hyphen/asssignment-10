@@ -8,6 +8,10 @@
 // }else{console.log( `${palin} is not a Plaindrome. `)}
 
 
+
+
+
+
 ////9. Write a js program to count total number of vowels and consonants in a string.
 
 // var find="yoyfpupfupv"
@@ -80,12 +84,20 @@
  //var Uppertolow = "jguyYTTYDDKTtl45yylslf"
 //  console.log( Uppertolow.toLowerCase())
 
-//  //Write a js program to concat two strings
+//  //3-Write a js program to concat two strings
 //  var  string1 = "1"
 //  var string2 = "2"
 //  var string3 = "3"
 //  var string4="4"
 //   console.log(string1.concat(string2,string3,string4) )
+
+
+
+
+// //13-Write a js program to reverse order of words in a string.
+// var input="wajid"
+// var reversE=input.split("").reverse().join("")
+// console.log(reversE )
 
 
 
