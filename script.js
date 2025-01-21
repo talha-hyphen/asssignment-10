@@ -1,3 +1,13 @@
+// //12. Write a js program to check whether a string is palindrome or not.
+// //  here use three built-in functions(split,reverse,join)
+// var palin="refer" //palindrome 
+ 
+// if(palin==palin.split("").reverse().join(""))
+//     {
+// console.log( `${palin} is a Plaindrome. `)
+// }else{console.log( `${palin} is not a Plaindrome. `)}
+
+
 ////9. Write a js program to count total number of vowels and consonants in a string.
 
 // var find="yoyfpupfupv"
