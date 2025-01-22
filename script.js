@@ -102,3 +102,13 @@
 
 
 
+////14. Write a js program to find first occurrence of a character in a given string.
+
+// var strg="ffgllfffgf"
+// var count=0
+// for (let index = 0; index < strg.length; index++) {
+//     const element = strg[index];
+//     if(strg[0]==element){
+//     count++
+// }}
+// console.log(count)
