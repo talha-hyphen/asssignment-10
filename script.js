@@ -112,3 +112,19 @@
 //     count++
 // }}
 // console.log(count)
+
+
+
+
+
+
+// //15. Write a js program to find last occurrence of a character in a given string.
+
+// var strng="ffgllfffgn"
+// var counnt=0
+// for (let index = 0; index < strng.length; index++) {
+//     const elment = strng[index];
+//     if(strng[strng.length-1]==elment){
+//     counnt++
+// }}
+// console.log(counnt)
